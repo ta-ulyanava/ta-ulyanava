@@ -22,6 +22,9 @@
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
+## 🔥 Most Used Languages
+
+> ![Top Langs](https://github-readme-stats-ulyanava.vercel.app/api/top-langs/?username=ta-ulyanava&layout=compact&theme=tokyonight&count_private=true)
 
 ## 📈 GitHub Stats
 
@@ -29,10 +32,5 @@
 | :---: | :----: |
 | ![GitHub Stats](https://github-readme-stats-ulyanava.vercel.app/api?username=ta-ulyanava&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ta-ulyanava&theme=tokyonight) |
 
-## 🔥 Most Used Languages
-
-> ![Top Langs](https://github-readme-stats-ulyanava.vercel.app/api/top-langs/?username=ta-ulyanava&layout=compact&theme=tokyonight&count_private=true)
-
 ---
 
-_This repo is powered by caffeine and late-night debugging. ☕️💻_
